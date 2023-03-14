@@ -1,0 +1,608 @@
+experience_level,job_title,salary_in_usd,remote_ratio,company_location,company_size
+Intermediario,Data Scientist,50 000 - 100 000,presencial,Germany,Grande
+Senior,Machine Learning Scientist,100 000 - 300 000,presencial,Japan,Pequena
+Senior,Big Data Engineer,100 000 - 300 000,parcial,United Kingdom,Média
+Intermediario,Product Data Analyst,2 859 -  50 000,presencial,Honduras,Pequena
+Senior,Machine Learning Engineer,100 000 - 300 000,parcial,United States,Grande
+Junior,Data Analyst,50 000 - 100 000,distancia,United States,Grande
+Senior,Lead Data Scientist,100 000 - 300 000,distancia,United States,Pequena
+Intermediario,Data Scientist,2 859 -  50 000,parcial,Hungary,Grande
+Intermediario,Business Data Analyst,100 000 - 300 000,distancia,United States,Grande
+Senior,Lead Data Engineer,100 000 - 300 000,parcial,New Zealand,Pequena
+Junior,Data Scientist,50 000 - 100 000,presencial,France,Pequena
+Intermediario,Data Scientist,2 859 -  50 000,presencial,India,Grande
+Junior,Data Scientist,2 859 -  50 000,presencial,France,Média
+Intermediario,Lead Data Analyst,50 000 - 100 000,distancia,United States,Grande
+Intermediario,Data Analyst,50 000 - 100 000,distancia,United States,Grande
+Intermediario,Data Analyst,2 859 -  50 000,parcial,Pakistan,Grande
+Junior,Data Engineer,2 859 -  50 000,distancia,Japan,Pequena
+Senior,Big Data Engineer,100 000 - 300 000,distancia,United Kingdom,Pequena
+Junior,Data Science Consultant,2 859 -  50 000,parcial,India,Média
+Intermediario,Lead Data Engineer,50 000 - 100 000,distancia,United States,Média
+Intermediario,Machine Learning Engineer,2 859 -  50 000,presencial,China,Média
+Intermediario,Product Data Analyst,2 859 -  50 000,distancia,India,Grande
+Senior,Data Engineer,2 859 -  50 000,parcial,Greece,Grande
+Intermediario,BI Data Analyst,50 000 - 100 000,presencial,United States,Média
+Intermediario,Lead Data Scientist,100 000 - 300 000,presencial,United Arab Emirates,Grande
+Diretor,Director of Data Science,300 000 - 600 000,distancia,United States,Grande
+Junior,Research Scientist,2 859 -  50 000,parcial,Netherlands,Grande
+Senior,Data Engineer,2 859 -  50 000,presencial,Mexico,Pequena
+Junior,Business Data Analyst,100 000 - 300 000,distancia,United States,Grande
+Senior,Machine Learning Manager,100 000 - 300 000,parcial,Canada,Grande
+Intermediario,Data Engineering Manager,50 000 - 100 000,distancia,Germany,Pequena
+Junior,Big Data Engineer,50 000 - 100 000,distancia,United States,Grande
+Senior,Data Scientist,50 000 - 100 000,distancia,United States,Grande
+Intermediario,Research Scientist,300 000 - 600 000,presencial,United States,Média
+Intermediario,Data Analyst,2 859 -  50 000,parcial,France,Grande
+Intermediario,Data Engineer,50 000 - 100 000,parcial,Austria,Grande
+Intermediario,Data Science Consultant,100 000 - 300 000,distancia,United States,Grande
+Junior,Machine Learning Engineer,100 000 - 300 000,parcial,United States,Grande
+Junior,Data Analyst,2 859 -  50 000,distancia,Nigeria,Pequena
+Junior,Machine Learning Engineer,100 000 - 300 000,distancia,United States,Pequena
+Intermediario,Data Scientist,2 859 -  50 000,distancia,United States,Pequena
+Diretor,Data Engineering Manager,50 000 - 100 000,parcial,Spain,Grande
+Intermediario,Machine Learning Infrastructure Engineer,50 000 - 100 000,presencial,Portugal,Média
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Engineer,100 000 - 300 000,parcial,United Kingdom,Grande
+Junior,ML Engineer,2 859 -  50 000,distancia,Germany,Pequena
+Intermediario,Data Scientist,50 000 - 100 000,distancia,United Kingdom,Pequena
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Engineer,50 000 - 100 000,parcial,France,Grande
+Junior,Data Analyst,2 859 -  50 000,presencial,India,Pequena
+Junior,Data Analyst,50 000 - 100 000,distancia,United States,Grande
+Junior,AI Scientist,2 859 -  50 000,parcial,Denmark,Pequena
+Junior,Data Engineer,50 000 - 100 000,distancia,Germany,Grande
+Senior,Computer Vision Engineer,50 000 - 100 000,distancia,United States,Pequena
+Senior,Principal Data Scientist,100 000 - 300 000,distancia,Germany,Média
+Intermediario,Data Scientist,2 859 -  50 000,distancia,Spain,Média
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,parcial,United States,Grande
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Junior,Data Scientist,2 859 -  50 000,parcial,Italy,Pequena
+Senior,Data Scientist,300 000 - 600 000,distancia,United States,Grande
+Senior,Machine Learning Engineer,2 859 -  50 000,distancia,Croatia,Pequena
+Junior,Data Scientist,50 000 - 100 000,parcial,Germany,Pequena
+Junior,Data Scientist,2 859 -  50 000,presencial,Germany,Pequena
+Senior,Data Science Manager,100 000 - 300 000,distancia,United States,Média
+Junior,Data Scientist,100 000 - 300 000,distancia,United States,Pequena
+Senior,Data Scientist,50 000 - 100 000,presencial,Austria,Pequena
+Intermediario,Data Scientist,50 000 - 100 000,parcial,Luxembourg,Pequena
+Intermediario,Data Scientist,2 859 -  50 000,parcial,France,Pequena
+Junior,Research Scientist,50 000 - 100 000,parcial,United Kingdom,Grande
+Diretor,BI Data Analyst,100 000 - 300 000,distancia,United States,Grande
+Diretor,Head of Data,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Scientist,50 000 - 100 000,parcial,France,Grande
+Intermediario,BI Data Analyst,100 000 - 300 000,distancia,United States,Média
+Intermediario,3D Computer Vision Researcher,2 859 -  50 000,parcial,India,Média
+Intermediario,ML Engineer,100 000 - 300 000,distancia,United States,Grande
+Junior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Analytics Engineer,50 000 - 100 000,distancia,Germany,Grande
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Applied Data Scientist,50 000 - 100 000,parcial,Canada,Grande
+Intermediario,Machine Learning Engineer,2 859 -  50 000,distancia,Spain,Pequena
+Diretor,Director of Data Science,100 000 - 300 000,distancia,Poland,Grande
+Intermediario,Data Engineer,2 859 -  50 000,distancia,Poland,Grande
+Junior,Data Analyst,50 000 - 100 000,parcial,France,Média
+Intermediario,Data Analytics Engineer,100 000 - 300 000,distancia,United States,Grande
+Senior,Lead Data Analyst,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Pequena
+Senior,Marketing Data Analyst,50 000 - 100 000,distancia,Denmark,Grande
+Junior,Data Science Consultant,50 000 - 100 000,distancia,Germany,Pequena
+Intermediario,Lead Data Analyst,2 859 -  50 000,distancia,India,Grande
+Senior,Lead Data Engineer,100 000 - 300 000,presencial,United States,Grande
+Junior,Data Scientist,2 859 -  50 000,parcial,India,Grande
+Intermediario,Cloud Data Engineer,50 000 - 100 000,parcial,Singapore,Grande
+Junior,AI Scientist,2 859 -  50 000,distancia,United States,Pequena
+Intermediario,Financial Data Analyst,300 000 - 600 000,distancia,United States,Grande
+Junior,Computer Vision Software Engineer,50 000 - 100 000,distancia,United States,Média
+Intermediario,Computer Vision Software Engineer,50 000 - 100 000,distancia,United States,Pequena
+Intermediario,Data Analyst,50 000 - 100 000,presencial,United States,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Intermediario,BI Data Analyst,2 859 -  50 000,parcial,United States,Grande
+Intermediario,Data Analyst,50 000 - 100 000,presencial,United States,Grande
+Intermediario,Data Scientist,50 000 - 100 000,presencial,United States,Grande
+Intermediario,Data Analyst,50 000 - 100 000,parcial,United Kingdom,Grande
+Intermediario,Research Scientist,100 000 - 300 000,distancia,Canada,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Pequena
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Junior,Data Engineer,2 859 -  50 000,distancia,India,Grande
+Senior,Machine Learning Engineer,50 000 - 100 000,parcial,Germany,Grande
+Senior,Director of Data Engineering,100 000 - 300 000,distancia,United Kingdom,Média
+Senior,Lead Data Engineer,100 000 - 300 000,distancia,United Kingdom,Pequena
+Junior,AI Scientist,2 859 -  50 000,distancia,United States,Média
+Intermediario,Data Engineer,2 859 -  50 000,distancia,Netherlands,Grande
+Junior,Machine Learning Scientist,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Scientist,50 000 - 100 000,distancia,Nigeria,Grande
+Intermediario,Data Science Engineer,2 859 -  50 000,distancia,Greece,Média
+Junior,Data Analyst,50 000 - 100 000,distancia,United States,Pequena
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Big Data Engineer,50 000 - 100 000,parcial,Romania,Média
+Senior,Principal Data Engineer,100 000 - 300 000,distancia,United States,Média
+Junior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Junior,Applied Data Scientist,100 000 - 300 000,presencial,United Kingdom,Grande
+Junior,Data Analyst,2 859 -  50 000,parcial,Spain,Média
+Intermediario,Principal Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Senior,Machine Learning Scientist,100 000 - 300 000,parcial,United States,Pequena
+Intermediario,Data Scientist,2 859 -  50 000,presencial,India,Pequena
+Junior,Machine Learning Engineer,2 859 -  50 000,distancia,India,Pequena
+Senior,Lead Data Scientist,2 859 -  50 000,parcial,India,Grande
+Junior,Machine Learning Developer,100 000 - 300 000,parcial,Iraq,Pequena
+Junior,Data Scientist,2 859 -  50 000,parcial,France,Média
+Intermediario,Applied Machine Learning Scientist,2 859 -  50 000,distancia,United States,Média
+Senior,Computer Vision Engineer,2 859 -  50 000,distancia,Brazil,Média
+Junior,Data Scientist,100 000 - 300 000,presencial,United States,Pequena
+Intermediario,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Intermediario,ML Engineer,50 000 - 100 000,parcial,Japan,Pequena
+Intermediario,ML Engineer,50 000 - 100 000,parcial,Japan,Pequena
+Senior,Principal Data Scientist,100 000 - 300 000,presencial,United States,Grande
+Junior,Data Scientist,50 000 - 100 000,distancia,United States,Média
+Intermediario,Data Analyst,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Science Manager,100 000 - 300 000,presencial,United States,Grande
+Senior,Data Engineering Manager,100 000 - 300 000,presencial,United States,Grande
+Intermediario,Data Scientist,50 000 - 100 000,distancia,United States,Pequena
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Senior,Machine Learning Engineer,50 000 - 100 000,parcial,Belgium,Média
+Intermediario,Research Scientist,50 000 - 100 000,parcial,France,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,United States,Grande
+Senior,Data Engineering Manager,100 000 - 300 000,distancia,United States,Grande
+Senior,Cloud Data Engineer,100 000 - 300 000,distancia,United States,Pequena
+Senior,Director of Data Science,100 000 - 300 000,presencial,Japan,Pequena
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,50 000 - 100 000,distancia,Canada,Grande
+Junior,Data Scientist,2 859 -  50 000,distancia,Ukraine,Grande
+Senior,Data Science Manager,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Science Engineer,100 000 - 300 000,parcial,Canada,Grande
+Intermediario,Data Scientist,100 000 - 300 000,distancia,Israel,Média
+Intermediario,Applied Machine Learning Scientist,300 000 - 600 000,parcial,United States,Grande
+Senior,Data Analytics Manager,100 000 - 300 000,distancia,United States,Média
+Junior,Machine Learning Engineer,100 000 - 300 000,distancia,United States,Pequena
+Diretor,Head of Data,100 000 - 300 000,parcial,Russian Federation,Grande
+Diretor,Head of Data Science,50 000 - 100 000,presencial,Russian Federation,Média
+Intermediario,Data Engineer,2 859 -  50 000,parcial,Malta,Grande
+Junior,Data Science Consultant,50 000 - 100 000,parcial,Germany,Grande
+Diretor,Director of Data Science,100 000 - 300 000,parcial,Germany,Média
+Senior,Data Specialist,100 000 - 300 000,distancia,United States,Grande
+Junior,Data Engineer,50 000 - 100 000,distancia,United States,Grande
+Diretor,Director of Data Science,100 000 - 300 000,presencial,United States,Grande
+Junior,BI Data Analyst,50 000 - 100 000,parcial,United States,Pequena
+Intermediario,Data Architect,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Architect,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Engineer,50 000 - 100 000,distancia,United Kingdom,Grande
+Junior,Data Analyst,50 000 - 100 000,distancia,United States,Pequena
+Senior,Principal Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Senior,Research Scientist,50 000 - 100 000,parcial,Portugal,Grande
+Senior,Data Engineering Manager,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Scientist,2 859 -  50 000,presencial,Mexico,Pequena
+Intermediario,Data Scientist,2 859 -  50 000,distancia,Chile,Grande
+Junior,Machine Learning Engineer,50 000 - 100 000,parcial,United States,Pequena
+Intermediario,Data Scientist,2 859 -  50 000,distancia,United States,Pequena
+Intermediario,Big Data Engineer,2 859 -  50 000,presencial,India,Grande
+Intermediario,Data Scientist,50 000 - 100 000,parcial,Germany,Grande
+Intermediario,Data Engineer,2 859 -  50 000,presencial,United States,Grande
+Senior,Finance Data Analyst,50 000 - 100 000,parcial,United Kingdom,Grande
+Intermediario,Machine Learning Scientist,2 859 -  50 000,parcial,Pakistan,Média
+Intermediario,Data Engineer,2 859 -  50 000,distancia,"Iran, Islamic Republic of",Média
+Senior,Data Analytics Engineer,50 000 - 100 000,distancia,United Kingdom,Média
+Diretor,Data Science Consultant,50 000 - 100 000,distancia,Spain,Pequena
+Senior,Data Engineer,50 000 - 100 000,parcial,United Kingdom,Pequena
+Intermediario,Machine Learning Engineer,50 000 - 100 000,parcial,Japan,Pequena
+Senior,Data Science Manager,100 000 - 300 000,distancia,France,Grande
+Junior,Machine Learning Engineer,2 859 -  50 000,parcial,Colombia,Média
+Intermediario,Big Data Engineer,2 859 -  50 000,presencial,"Moldova, Republic of",Pequena
+Senior,Data Science Manager,100 000 - 300 000,distancia,United States,Grande
+Senior,Research Scientist,50 000 - 100 000,parcial,Canada,Grande
+Intermediario,Data Scientist,100 000 - 300 000,parcial,United States,Grande
+Junior,BI Data Analyst,2 859 -  50 000,distancia,Kenya,Pequena
+Senior,Machine Learning Engineer,2 859 -  50 000,distancia,India,Grande
+Senior,Data Science Manager,50 000 - 100 000,parcial,United States,Grande
+Junior,Data Science Consultant,50 000 - 100 000,distancia,United States,Pequena
+Intermediario,Data Scientist,50 000 - 100 000,parcial,Austria,Média
+Senior,Machine Learning Infrastructure Engineer,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,2 859 -  50 000,distancia,Spain,Grande
+Senior,Research Scientist,50 000 - 100 000,distancia,United States,Pequena
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Scientist,2 859 -  50 000,presencial,Brazil,Pequena
+Senior,Machine Learning Engineer,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Engineer,100 000 - 300 000,presencial,United States,Média
+Intermediario,Data Engineer,2 859 -  50 000,presencial,United States,Grande
+Senior,Data Analytics Manager,100 000 - 300 000,presencial,United States,Grande
+Intermediario,Machine Learning Engineer,2 859 -  50 000,parcial,Slovenia,Grande
+Intermediario,Research Scientist,50 000 - 100 000,parcial,France,Pequena
+Intermediario,Data Engineer,50 000 - 100 000,parcial,United Kingdom,Pequena
+Junior,Big Data Engineer,2 859 -  50 000,presencial,Switzerland,Grande
+Junior,Machine Learning Engineer,2 859 -  50 000,parcial,Germany,Média
+Senior,Principal Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Junior,Computer Vision Engineer,2 859 -  50 000,parcial,Denmark,Pequena
+Intermediario,Data Scientist,50 000 - 100 000,parcial,Germany,Grande
+Intermediario,Machine Learning Engineer,50 000 - 100 000,distancia,Belgium,Média
+Senior,Data Analytics Manager,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Machine Learning Engineer,2 859 -  50 000,distancia,Poland,Grande
+Intermediario,Data Scientist,100 000 - 300 000,parcial,United Kingdom,Grande
+Intermediario,Data Scientist,2 859 -  50 000,presencial,India,Média
+Intermediario,Data Scientist,50 000 - 100 000,parcial,United Kingdom,Grande
+Senior,Machine Learning Scientist,100 000 - 300 000,distancia,Canada,Grande
+Diretor,Principal Data Scientist,300 000 - 600 000,distancia,United States,Pequena
+Senior,Data Scientist,50 000 - 100 000,distancia,Canada,Pequena
+Intermediario,Data Scientist,50 000 - 100 000,parcial,Germany,Grande
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Grande
+Senior,Data Analyst,50 000 - 100 000,distancia,Canada,Média
+Junior,Big Data Engineer,2 859 -  50 000,distancia,India,Grande
+Senior,ML Engineer,100 000 - 300 000,distancia,United States,Pequena
+Senior,Director of Data Engineering,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Architect,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Head of Data Science,100 000 - 300 000,presencial,United States,Pequena
+Intermediario,Research Scientist,50 000 - 100 000,distancia,Canada,Média
+Intermediario,Data Scientist,2 859 -  50 000,distancia,Spain,Média
+Junior,Data Scientist,2 859 -  50 000,presencial,Viet Nam,Média
+Junior,Data Engineer,2 859 -  50 000,parcial,India,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,Canada,Grande
+Intermediario,Data Analyst,50 000 - 100 000,distancia,United States,Grande
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Junior,AI Scientist,2 859 -  50 000,distancia,American Samoa,Pequena
+Intermediario,Data Engineer,50 000 - 100 000,parcial,United Kingdom,Grande
+Junior,Data Scientist,2 859 -  50 000,parcial,France,Grande
+Intermediario,Data Engineer,2 859 -  50 000,presencial,Turkey,Média
+Senior,Data Engineer,50 000 - 100 000,parcial,United Kingdom,Grande
+Senior,Principal Data Analyst,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,100 000 - 300 000,parcial,United States,Grande
+Junior,Data Scientist,50 000 - 100 000,distancia,United States,Pequena
+Diretor,Principal Data Engineer,600000,distancia,United States,Grande
+Junior,Data Scientist,2 859 -  50 000,distancia,India,Média
+Intermediario,Data Analyst,50 000 - 100 000,distancia,United States,Grande
+Senior,Big Data Architect,50 000 - 100 000,parcial,Canada,Média
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Senior,Principal Data Scientist,100 000 - 300 000,distancia,Germany,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,parcial,United States,Grande
+Diretor,Director of Data Science,100 000 - 300 000,presencial,Germany,Grande
+Intermediario,Data Scientist,100 000 - 300 000,parcial,United States,Grande
+Senior,Data Analyst,50 000 - 100 000,parcial,Germany,Grande
+Intermediario,Data Scientist,2 859 -  50 000,distancia,India,Pequena
+Senior,Machine Learning Engineer,50 000 - 100 000,presencial,India,Grande
+Intermediario,Data Scientist,2 859 -  50 000,distancia,Germany,Pequena
+Senior,Lead Data Engineer,100 000 - 300 000,parcial,United States,Pequena
+Intermediario,Data Engineer,50 000 - 100 000,presencial,United States,Média
+Intermediario,Data Engineer,100 000 - 300 000,presencial,United States,Média
+Intermediario,Data Engineer,2 859 -  50 000,distancia,Turkey,Média
+Junior,Data Engineer,50 000 - 100 000,parcial,Germany,Média
+Junior,Data Engineer,50 000 - 100 000,distancia,United States,Grande
+Senior,Computer Vision Engineer,2 859 -  50 000,presencial,Brazil,Média
+Junior,Data Science Consultant,50 000 - 100 000,presencial,Germany,Grande
+Junior,Machine Learning Engineer,50 000 - 100 000,distancia,Germany,Pequena
+Senior,Data Scientist,50 000 - 100 000,parcial,France,Média
+Junior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Junior,Data Scientist,50 000 - 100 000,parcial,United States,Grande
+Senior,AI Scientist,50 000 - 100 000,distancia,Spain,Grande
+Senior,Data Scientist,2 859 -  50 000,parcial,Turkey,Grande
+Junior,Business Data Analyst,50 000 - 100 000,distancia,Luxembourg,Grande
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Junior,Research Scientist,100 000 - 300 000,presencial,China,Grande
+Intermediario,Data Engineer,50 000 - 100 000,distancia,Netherlands,Grande
+Senior,Staff Data Scientist,100 000 - 300 000,distancia,United States,Média
+Intermediario,Research Scientist,50 000 - 100 000,parcial,Czechia,Grande
+Senior,Data Science Manager,50 000 - 100 000,parcial,India,Grande
+Senior,Head of Data,100 000 - 300 000,distancia,Slovenia,Grande
+Intermediario,Data Scientist,100 000 - 300 000,parcial,United States,Grande
+Intermediario,Machine Learning Engineer,50 000 - 100 000,parcial,Italy,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,100 000 - 300 000,presencial,United States,Média
+Intermediario,Data Scientist,50 000 - 100 000,presencial,United States,Média
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,50 000 - 100 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Junior,Data Engineer,50 000 - 100 000,distancia,United Kingdom,Média
+Senior,Data Analyst,50 000 - 100 000,presencial,United States,Média
+Senior,Data Analyst,100 000 - 300 000,presencial,United States,Média
+Intermediario,Data Analyst,100 000 - 300 000,presencial,United States,Média
+Intermediario,Data Analyst,100 000 - 300 000,presencial,United States,Média
+Diretor,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Diretor,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,50 000 - 100 000,presencial,United Kingdom,Média
+Intermediario,Data Scientist,2 859 -  50 000,presencial,United Kingdom,Média
+Intermediario,Data Engineer,50 000 - 100 000,presencial,United Kingdom,Média
+Intermediario,Data Engineer,50 000 - 100 000,presencial,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Junior,Data Engineer,2 859 -  50 000,distancia,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,presencial,United States,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Grande
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Grande
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Diretor,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Diretor,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,50 000 - 100 000,distancia,United States,Média
+Diretor,Head of Data Science,100 000 - 300 000,distancia,United States,Média
+Diretor,Head of Data Science,100 000 - 300 000,distancia,United States,Média
+Diretor,Analytics Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,presencial,United States,Média
+Senior,Data Scientist,50 000 - 100 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,presencial,United States,Grande
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Science Manager,100 000 - 300 000,distancia,United States,Média
+Senior,Data Science Manager,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,50 000 - 100 000,presencial,United Kingdom,Média
+Senior,Data Engineer,50 000 - 100 000,presencial,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Architect,100 000 - 300 000,distancia,Canada,Média
+Senior,Data Architect,50 000 - 100 000,distancia,Canada,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,Canada,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,Canada,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,Canada,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,Canada,Média
+Senior,Data Engineer,100 000 - 300 000,presencial,United States,Grande
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,presencial,United States,Média
+Intermediario,Data Analyst,50 000 - 100 000,presencial,United States,Pequena
+Diretor,Analytics Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,presencial,United States,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,presencial,United States,Média
+Intermediario,ETL Developer,50 000 - 100 000,presencial,Greece,Média
+Intermediario,ETL Developer,50 000 - 100 000,presencial,Greece,Média
+Diretor,Lead Data Engineer,100 000 - 300 000,distancia,Canada,Pequena
+Senior,Data Analyst,100 000 - 300 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Architect,100 000 - 300 000,distancia,United States,Média
+Senior,Data Architect,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Diretor,Head of Machine Learning,50 000 - 100 000,parcial,India,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Junior,Machine Learning Engineer,2 859 -  50 000,distancia,United Kingdom,Grande
+Senior,Data Analyst,100 000 - 300 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Intermediario,Machine Learning Engineer,100 000 - 300 000,presencial,United Kingdom,Média
+Intermediario,Machine Learning Engineer,50 000 - 100 000,presencial,United Kingdom,Média
+Intermediario,AI Scientist,100 000 - 300 000,presencial,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Analytics Manager,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analytics Manager,100 000 - 300 000,distancia,United States,Média
+Intermediario,Machine Learning Engineer,50 000 - 100 000,distancia,Germany,Média
+Intermediario,Data Engineer,100 000 - 300 000,presencial,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Analyst,100 000 - 300 000,presencial,United States,Média
+Senior,Data Analyst,50 000 - 100 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Engineer,50 000 - 100 000,presencial,United Kingdom,Média
+Intermediario,Data Analyst,50 000 - 100 000,presencial,United States,Pequena
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Analyst,50 000 - 100 000,distancia,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,50 000 - 100 000,presencial,United Kingdom,Média
+Intermediario,Data Scientist,2 859 -  50 000,presencial,United Kingdom,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,Greece,Média
+Intermediario,Data Engineer,2 859 -  50 000,distancia,Greece,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,United Kingdom,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Science Engineer,50 000 - 100 000,distancia,Mexico,Grande
+Intermediario,Data Engineer,50 000 - 100 000,presencial,United States,Média
+Intermediario,Machine Learning Scientist,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Machine Learning Scientist,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Science Manager,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Science Manager,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Média
+Senior,Data Scientist,50 000 - 100 000,presencial,United States,Média
+Intermediario,Data Engineer,50 000 - 100 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Engineer,2 859 -  50 000,distancia,Spain,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Grande
+Intermediario,Data Analyst,2 859 -  50 000,distancia,United Kingdom,Média
+Intermediario,Data Analyst,2 859 -  50 000,distancia,Spain,Média
+Intermediario,Data Analyst,2 859 -  50 000,distancia,Spain,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,Spain,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,Spain,Média
+Intermediario,Data Engineer,100 000 - 300 000,distancia,United Kingdom,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,United Kingdom,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,Spain,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,Greece,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,presencial,United States,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,presencial,United States,Média
+Intermediario,Data Analyst,2 859 -  50 000,distancia,Greece,Média
+Intermediario,Data Analyst,2 859 -  50 000,distancia,Greece,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,United Kingdom,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Grande
+Intermediario,Data Engineer,50 000 - 100 000,distancia,Greece,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Junior,ML Engineer,2 859 -  50 000,distancia,Portugal,Grande
+Senior,Data Engineer,50 000 - 100 000,distancia,United States,Média
+Intermediario,Machine Learning Developer,50 000 - 100 000,distancia,Canada,Média
+Diretor,Director of Data Science,100 000 - 300 000,parcial,Canada,Grande
+Intermediario,Machine Learning Engineer,100 000 - 300 000,distancia,United States,Pequena
+Junior,Computer Vision Engineer,100 000 - 300 000,presencial,United States,Média
+Intermediario,NLP Engineer,2 859 -  50 000,parcial,United States,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Lead Machine Learning Engineer,50 000 - 100 000,presencial,Germany,Média
+Intermediario,Business Data Analyst,2 859 -  50 000,distancia,India,Média
+Intermediario,Data Scientist,2 859 -  50 000,distancia,India,Grande
+Intermediario,Machine Learning Infrastructure Engineer,50 000 - 100 000,parcial,Portugal,Grande
+Junior,Financial Data Analyst,100 000 - 300 000,parcial,United States,Grande
+Intermediario,Data Engineer,50 000 - 100 000,parcial,Germany,Grande
+Junior,Data Scientist,2 859 -  50 000,distancia,India,Média
+Senior,Principal Data Scientist,100 000 - 300 000,distancia,Germany,Média
+Junior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Research Scientist,100 000 - 300 000,parcial,United States,Grande
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,100 000 - 300 000,presencial,United Kingdom,Média
+Intermediario,Data Scientist,50 000 - 100 000,presencial,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,distancia,United Arab Emirates,Pequena
+Senior,Machine Learning Engineer,50 000 - 100 000,distancia,United Arab Emirates,Pequena
+Diretor,Data Engineer,300 000 - 600 000,distancia,United States,Média
+Diretor,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Junior,Data Scientist,100 000 - 300 000,parcial,Algeria,Média
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Junior,Applied Machine Learning Scientist,2 859 -  50 000,distancia,Czechia,Média
+Senior,Head of Data,100 000 - 300 000,distancia,United States,Média
+Intermediario,Principal Data Analyst,50 000 - 100 000,distancia,Canada,Pequena
+Intermediario,Data Scientist,2 859 -  50 000,distancia,Poland,Grande
+Senior,Machine Learning Developer,50 000 - 100 000,distancia,Canada,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Intermediario,Machine Learning Scientist,100 000 - 300 000,parcial,United States,Média
+Junior,Data Engineer,50 000 - 100 000,distancia,Germany,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Research Scientist,50 000 - 100 000,parcial,France,Grande
+Junior,Data Scientist,50 000 - 100 000,distancia,Canada,Grande
+Senior,Machine Learning Engineer,50 000 - 100 000,distancia,Netherlands,Grande
+Intermediario,Head of Data,2 859 -  50 000,distancia,Estonia,Pequena
+Junior,Data Scientist,2 859 -  50 000,distancia,Malaysia,Grande
+Intermediario,Machine Learning Engineer,50 000 - 100 000,distancia,Australia,Grande
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Junior,Data Scientist,50 000 - 100 000,parcial,Australia,Média
+Intermediario,Applied Machine Learning Scientist,50 000 - 100 000,distancia,United States,Grande
+Intermediario,Research Scientist,50 000 - 100 000,presencial,Austria,Grande
+Junior,Research Scientist,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Applied Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Junior,Computer Vision Software Engineer,100 000 - 300 000,distancia,Australia,Pequena
+Intermediario,Business Data Analyst,50 000 - 100 000,parcial,Canada,Grande
+Junior,Data Engineer,50 000 - 100 000,distancia,United States,Pequena
+Senior,Machine Learning Engineer,50 000 - 100 000,distancia,Ireland,Pequena
+Junior,Data Analytics Engineer,2 859 -  50 000,presencial,Pakistan,Média
+Intermediario,Data Scientist,2 859 -  50 000,distancia,United States,Pequena
+Senior,Data Science Manager,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Engineer,50 000 - 100 000,distancia,France,Média
+Intermediario,Data Scientist,100 000 - 300 000,presencial,Switzerland,Grande
+Senior,Applied Data Scientist,300 000 - 600 000,distancia,United States,Grande
+Intermediario,Data Scientist,50 000 - 100 000,distancia,Canada,Média
+Junior,Computer Vision Engineer,2 859 -  50 000,distancia,Luxembourg,Média
+Intermediario,Data Analyst,2 859 -  50 000,distancia,Greece,Pequena
+Senior,Data Analytics Lead,300 000 - 600 000,distancia,United States,Grande
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Senior,Applied Data Scientist,100 000 - 300 000,distancia,United States,Grande
+Intermediario,Data Scientist,50 000 - 100 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Intermediario,Data Analyst,50 000 - 100 000,presencial,Canada,Média
+Intermediario,Data Analyst,50 000 - 100 000,presencial,Canada,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Machine Learning Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Architect,100 000 - 300 000,distancia,United States,Média
+Senior,Data Architect,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,100 000 - 300 000,presencial,United States,Média
+Intermediario,Data Scientist,100 000 - 300 000,presencial,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Intermediario,Data Engineer,100 000 - 300 000,presencial,United States,Média
+Intermediario,Data Engineer,50 000 - 100 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Grande
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Grande
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,50 000 - 100 000,presencial,United States,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Média
+Senior,Data Scientist,100 000 - 300 000,presencial,United States,Média
+Senior,Analytics Engineer,100 000 - 300 000,presencial,United States,Média
+Senior,Analytics Engineer,100 000 - 300 000,presencial,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,50 000 - 100 000,presencial,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Analyst,50 000 - 100 000,presencial,United Kingdom,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,2 859 -  50 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Analyst,2 859 -  50 000,presencial,United Kingdom,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,50 000 - 100 000,presencial,United States,Média
+Senior,Data Analyst,50 000 - 100 000,distancia,United States,Média
+Senior,Data Architect,100 000 - 300 000,distancia,United States,Média
+Senior,Data Architect,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analytics Manager,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analytics Manager,100 000 - 300 000,distancia,United States,Média
+Senior,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Intermediario,Data Scientist,100 000 - 300 000,distancia,United States,Média
+Junior,Data Analyst,50 000 - 100 000,presencial,Canada,Média
+Junior,Data Analyst,50 000 - 100 000,presencial,Canada,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Engineer,100 000 - 300 000,distancia,United States,Média
+Senior,Data Analyst,100 000 - 300 000,presencial,United States,Média
+Senior,Data Analyst,100 000 - 300 000,distancia,United States,Média
+Intermediario,AI Scientist,100 000 - 300 000,distancia,United States,Grande
